@@ -33,11 +33,6 @@ describe('RSS Feeds', () => {
     * and that the name is not empty.
     */
 
-    /* TODO: Write a test that loops through each feed
-    * in the allFeeds object and ensures it has a name defined
-    * and that the name is not empty.
-    */
-
 });
 
 
